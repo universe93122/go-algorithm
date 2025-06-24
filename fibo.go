@@ -67,4 +67,6 @@ func main() {
 		fmt.Println("Result:", a, <-results)
 	}
 
+	Reder()
+
 }
